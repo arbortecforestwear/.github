@@ -91,7 +91,6 @@ This GitHub organisation hosts projects related to:
 | Platform | Link |
 |---|---|
 | 🏪 Main Store | https://arbortec.com/ |
-| 🇺🇸 US Store | https://www.us.arbortec.com/ |
 | 🤝 Trade Portal | https://www.arbortectrade.com/ |
 | 🌳 Treehog | https://treehog.co.uk/ |
 
