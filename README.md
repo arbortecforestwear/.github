@@ -3,10 +3,6 @@
 > Innovative chainsaw protective apparel, footwear, and accessories engineered for arborists, forestry professionals, and outdoor specialists worldwide.
 
 <p align="center">
-  <img src="https://arbortec.com/cdn/shop/files/arbortec-logo.png" alt="Arbortec Logo" width="280"/>
-</p>
-
-<p align="center">
   <strong>🪵 Live the Tree Life</strong>
 </p>
 
